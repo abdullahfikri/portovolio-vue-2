@@ -2,6 +2,7 @@
   <nav-bootstrap></nav-bootstrap>
   <header-bootstrap></header-bootstrap>
   <about-bootstrap></about-bootstrap>
+  <work-bootstrap></work-bootstrap>
   <footer-bootstrap></footer-bootstrap>
 </template>
 
