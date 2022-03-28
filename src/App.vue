@@ -3,6 +3,7 @@
   <header-bootstrap></header-bootstrap>
   <about-bootstrap></about-bootstrap>
   <work-bootstrap></work-bootstrap>
+  <contact-bootstrap></contact-bootstrap>
   <footer-bootstrap></footer-bootstrap>
 </template>
 
@@ -11,6 +12,7 @@ export default {
   name: "App",
 };
 </script>
+index.html#about
 
 <style>
 .navbar-brand {
